@@ -1,0 +1,15 @@
+C:\Users\Fahad\source\repos\3Clocks\3Clocks\bin\Debug\3Clocks.exe.config
+C:\Users\Fahad\source\repos\3Clocks\3Clocks\bin\Debug\3Clocks.exe
+C:\Users\Fahad\source\repos\3Clocks\3Clocks\bin\Debug\3Clocks.pdb
+C:\Users\Fahad\source\repos\3Clocks\3Clocks\obj\Debug\3Clocks.csproj.AssemblyReference.cache
+C:\Users\Fahad\source\repos\3Clocks\3Clocks\obj\Debug\3Clocks.csproj.SuggestedBindingRedirects.cache
+C:\Users\Fahad\source\repos\3Clocks\3Clocks\obj\Debug\_3Clocks.Form1.resources
+C:\Users\Fahad\source\repos\3Clocks\3Clocks\obj\Debug\_3Clocks.Properties.Resources.resources
+C:\Users\Fahad\source\repos\3Clocks\3Clocks\obj\Debug\3Clocks.csproj.GenerateResource.cache
+C:\Users\Fahad\source\repos\3Clocks\3Clocks\obj\Debug\3Clocks.csproj.CoreCompileInputs.cache
+C:\Users\Fahad\source\repos\3Clocks\3Clocks\obj\Debug\3Clocks.exe
+C:\Users\Fahad\source\repos\3Clocks\3Clocks\obj\Debug\3Clocks.pdb
+C:\Users\Fahad\source\repos\3Clocks\3Clocks\obj\Debug\_3Clocks.BinaryClock.resources
+C:\Users\Fahad\source\repos\3Clocks\3Clocks\bin\Debug\Guna.UI.dll
+C:\Users\Fahad\source\repos\3Clocks\3Clocks\obj\Debug\3Clocks.csproj.CopyComplete
+C:\Users\Fahad\source\repos\3Clocks\3Clocks\obj\Debug\_3Clocks.DigitalClock.resources
